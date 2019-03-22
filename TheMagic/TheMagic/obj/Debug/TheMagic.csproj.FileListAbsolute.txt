@@ -1,0 +1,21 @@
+F:\C# projects\TheMagic\TheMagic\bin\Debug\TheMagic.exe.config
+F:\C# projects\TheMagic\TheMagic\bin\Debug\TheMagic.exe
+F:\C# projects\TheMagic\TheMagic\bin\Debug\TheMagic.pdb
+F:\C# projects\TheMagic\TheMagic\obj\Debug\TheMagic.csproj.CoreCompileInputs.cache
+F:\C# projects\TheMagic\TheMagic\obj\Debug\TheMagic.exe
+F:\C# projects\TheMagic\TheMagic\obj\Debug\TheMagic.pdb
+F:\C# projects\TheMagic\TheMagic\obj\Debug\TheMagic.csprojResolveAssemblyReference.cache
+G:\ORAL PROJECT\TheMagic\TheMagic\bin\Debug\TheMagic.exe.config
+G:\ORAL PROJECT\TheMagic\TheMagic\bin\Debug\TheMagic.exe
+G:\ORAL PROJECT\TheMagic\TheMagic\bin\Debug\TheMagic.pdb
+G:\ORAL PROJECT\TheMagic\TheMagic\obj\Debug\TheMagic.csprojResolveAssemblyReference.cache
+G:\ORAL PROJECT\TheMagic\TheMagic\obj\Debug\TheMagic.csproj.CoreCompileInputs.cache
+G:\ORAL PROJECT\TheMagic\TheMagic\obj\Debug\TheMagic.exe
+G:\ORAL PROJECT\TheMagic\TheMagic\obj\Debug\TheMagic.pdb
+F:\Oral Projects\Programming 1\TheMagic\TheMagic\obj\Debug\TheMagic.csprojAssemblyReference.cache
+F:\Oral Projects\Programming 1\TheMagic\TheMagic\obj\Debug\TheMagic.csproj.CoreCompileInputs.cache
+F:\Oral Projects\Programming 1\TheMagic\TheMagic\obj\Debug\TheMagic.exe
+F:\Oral Projects\Programming 1\TheMagic\TheMagic\obj\Debug\TheMagic.pdb
+F:\Oral Projects\Programming 1\TheMagic\TheMagic\bin\Debug\TheMagic.exe.config
+F:\Oral Projects\Programming 1\TheMagic\TheMagic\bin\Debug\TheMagic.exe
+F:\Oral Projects\Programming 1\TheMagic\TheMagic\bin\Debug\TheMagic.pdb
